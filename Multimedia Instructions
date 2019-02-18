@@ -1,0 +1,102 @@
+
+
+1. Introduction of multimedia tool
+
+http://ubuntustudio.org/tour/
+
+https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook/GettingStarted
+
+
+https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook
+
+
+http://cec.nic.in/NME-ICT%20Project/dth/Documents/E-Content%20Development%20Guidelines.pdf
+
+In order to organize your work use some tools like shotwell, clibre, ...
+
+2. Project A: Educational and Design Criteria for e-content 
+ develop a web based interface for e-content for 7 & 8 (Bengali, Math, Science, …) by each team consisting of 2 members playing all the expert roles..
+ 
+Experts  including  coordinators,  team  leaders,  producers,  art  directors,  designers,  environment  compilers,  content  experts,  education  technologists,  education  psychologists,  education  sociologists,  scale  and  evaluation  experts  should  be  involved  in  the  production  of  e-content 
+
+Steps
+a) Determining the educational goals of the course (course’s general goal, partial 
+goals, topic explanation, evaluation questions)
+b) Determining  the  coverage  and  flow  required  to  accomplish  the  educational  
+goal
+c) Determining the evaluation scales
+d) Producing the materials to be used in the content
+e) Building the materials in order to produce educational results
+f) Making changes according to the feedback on a trial version of the e-content
+
+
+3. Project B Technical Criteria
+develop a story board for e-content
+Read this and try to follow the tips to develop story board of your work.
+https://elearningindustry.com/12-tips-to-create-effective-elearning-storyboards
+https://www.shiftelearning.com/blog/a-simple-guide-to-creating-your-first-elearning-storyboard
+
+a)  https://docs.google.com/file/d/0B8-Ty7GrYtWeYjRiODM1ZWEtMmU1Ny00NjdkLTkxMGEtMjY4M2NhNGIxOGFl/edit?num=50&sort=name&layout=list
+
+b) https://docs.google.com/file/d/0B8-Ty7GrYtWeNzA2MDE0NjEtNTliYi00ZTU1LWI4NjAtOTU5MTU2Zjc5YzJl/edit?num=50&sort=name&layout=list
+
+This video will help you https://www.youtube.com/watch?v=dG3n_IE2K9c and
+https://www.youtube.com/watch?v=73Wbwxp3yC8
+
+
+4. Project C Graphic and Photograph Criteria
+develop a graphics for content
+
+Based on the story board, try to use graphics tools as stated http://ubuntustudio.org/tour/graphics/ .
+However my preference is
+a) gimp
+b) inkspace
+for 2D graphics ad photo manipulation.
+
+...
+
+5. Project D: Sound Criteria
+Develop audio content as you decided in your story board as stated in http://ubuntustudio.org/tour/audio/
+
+My choice is 
+a) Aurdour  (digital audio workstation)
+b) Rose garden (music)
+
+...
+
+6. Project E: Animation Criteria
+Develop animation as per story board supports you. 
+
+Blender 3D animation, also allows 2D animation
+
+...
+
+7. Project F: Video Criteria
+Develop video content capturing, editing and final touch for your project.
+A set of video editor you can have idea from https://filmora.wondershare.com/video-editor/free-linux-video-editor.html
+
+My preference is Pitivi from http://www.pitivi.org/ else Openshot is enough.
+
+...
+
+7. Project F: Scale and Evaluation Criteria
+integrate all for final presentation
+
+https://www.efrontlearning.com/blog/2010/10/open-source-authoring-tools-for-e.html
+
+
+
+  
+
+
+Educational and Design Criteria
+Technical Criteria
+Animation Criteria
+Video Criteria
+Scale and Evaluation Criteria
+Graphic and Photograph Criteria
+Sound Criteria
+
+Ref https://files.eric.ed.gov/fulltext/EJ1097928.pdf ; Table 2.; Eurasian Journal of Educational Research
+
+
